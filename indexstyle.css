@@ -1,0 +1,65 @@
+.nav {
+    font-size: 22px;
+    background-color: rgb(15, 90, 124);
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.nav .nav-link {
+    color: white;
+}
+
+.HomePage {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    background-color: rgb(15, 90, 124);
+    margin: 0 !important;
+    padding: 7px !important;
+}
+
+.test {
+    position: relative;
+    text-align: end;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 65px;
+  }
+
+/* body, html {
+height: 100%;
+margin: 0;
+} */
+/* 
+.img {
+    width: 100%;
+    height: auto;
+} */
+
+body {
+    /* Location of the image */
+    /* background-image: url(https://thewallpaper.co//wp-content/uploads/2016/10preview/green-nature-beautiful-wallpaper-desktop-1920x1080-1080p-hd-hd-wallpapers-cool-images-4k-high-definition-mac-desktop-images-widescreen-display-digital-photos-1920x1080.jpg); */
+    
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+    
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+    
+    /* Background image is fixed in the viewport so that it doesn't move when 
+       the content's height is greater than the image's height */
+    background-attachment: fixed;
+    
+    /* This is what makes the background image rescale based
+       on the container's size */
+    background-size: cover;
+    
+    /* Set a background color that will be displayed
+       while the background image is loading */
+    background-color: #000000;
+  }
+
+
+

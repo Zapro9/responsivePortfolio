@@ -60,8 +60,14 @@
 #section1 {
     text-align: center;
     font-size: 20px;
+    padding: 25px;
     /* text-decoration: underline; */
     
+}
+#section2 {
+    text-align: center;
+    font-size: 20px;
+    padding: 25px;
 }
 
 #resume {
@@ -81,7 +87,7 @@
 }
 
 body {
-    background-color: #959595; 
+    background-color: #cccccc; 
   }
 
 
